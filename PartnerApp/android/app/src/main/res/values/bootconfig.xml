@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="remoteAccessConsumerKey">3MVG98dostKihXN53TYStBIiS8FC2a3tE3XhGId0hQ37iQjF0xe4fxMSb2mFaWZn9e3GiLs1q67TNlyRji.Xw</string>
-    <string name="oauthRedirectURI">testsfdc:///mobilesdk/detect/oauth/done</string>
+    <string name="remoteAccessConsumerKey">3MVG9XhRuzJUtKtAtCdmDp45RiHiW1AmOkKlajBfUITzt6LtnpK6sFlD3VoN2V55yqScRXKIGX68qX2YQuJeR</string>
+    <string name="oauthRedirectURI">partnerapp://auth/success</string>
     <string-array name="oauthScopes">
         <item>api</item>
 		<item>web</item>
